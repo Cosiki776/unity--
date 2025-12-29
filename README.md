@@ -1,7 +1,7 @@
 Unity ML-Agents: Reacher Robot
 
 🤖 基于 Unity ML-Agents 的机器人的强化学习研究项目
-本项目训练6自由度机械臂进行触碰，主要是应付具身智能的课堂作业，挺简单的一个6自由度机械臂机械臂，触碰到小球后小球会变大变蓝，这个操作只是为了明显一点的看见触碰，可以取消。
+本项目训练6自由度机械臂进行触碰，主要是应付下具身智能的课堂作业，挺简单的一个6自由度机械臂机械臂，触碰到小球后小球会变大变蓝，这个操作只是为了明显一点的看见触碰，可以取消。
 完全参考了https://www.youtube.com/watch?v=HOUPkBF-yv0的教程，但是在网上没找着代码，所以跟着视频敲了一遍，也做了一些改进：
 <img width="1117" height="678" alt="image" src="https://github.com/user-attachments/assets/6324a593-3068-4297-ac11-55cc69a62133" />
 <img width="355" height="277" alt="image" src="https://github.com/user-attachments/assets/dc0eea3f-7127-48b9-a776-d7cbf9e96fe9" />
